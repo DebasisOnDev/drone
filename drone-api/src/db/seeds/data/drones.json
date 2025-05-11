@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nano Scout 100",
+    "droneStatus": "available",
+    "type": "nano",
+    "rangeKm": 1,
+    "totalAvailable": 1,
+    "flightTimeMin": 15,
+    "exampleUseCase": "Indoor surveillance and short-range reconnaissance in tight spaces.",
+    "payloadType": "camera",
+    "batteryLevel": 100,
+    "image": "https://media.istockphoto.com/id/541307864/photo/white-drone-with-lights-quadrocopter-with-photo-camera.jpg?s=612x612&w=0&k=20&c=RWUUcTbjyfV6WI1Jszlt3WFCJAJfg1SEIYBnjc2rYbI="
+  },
+  {
+    "name": "Micro Hawk X2",
+    "droneStatus": "available",
+    "type": "micro",
+    "rangeKm": 5,
+    "totalAvailable": 1,
+    "flightTimeMin": 30,
+    "exampleUseCase": "Urban monitoring and tactical support in confined environments.",
+    "payloadType": "thermal sensor",
+    "batteryLevel": 100,
+    "image": "https://media.istockphoto.com/id/478200246/photo/isolated-flying-phantom-drone.jpg?s=612x612&w=0&k=20&c=bh8MAxJx4NZyliFhtc1STLBinXL6eTMzknA-ZoDNTw4="
+  },
+  {
+    "name": "Tactical Falcon T1",
+    "droneStatus": "available",
+    "type": "tactical",
+    "rangeKm": 20,
+    "totalAvailable": 1,
+    "flightTimeMin": 90,
+    "exampleUseCase": "Battlefield support, reconnaissance, and area mapping.",
+    "payloadType": "lidar",
+    "batteryLevel": 100,
+    "image": "https://media.istockphoto.com/id/1807622739/photo/military-drone-shahed-136.jpg?s=612x612&w=0&k=20&c=xU2wZUTPrS4xdB0nZYphPHvxDhEFk1-wAqA38EvTaoU="
+  },
+  {
+    "name": "SkyWatcher MALE Pro",
+    "droneStatus": "available",
+    "type": "male",
+    "rangeKm": 200,
+    "totalAvailable": 1,
+    "flightTimeMin": 600,
+    "exampleUseCase": "Border patrol and long-duration surveillance missions.",
+    "payloadType": "radar",
+    "batteryLevel": 100,
+    "image": "https://media.istockphoto.com/id/2091355645/photo/unmanned-military-drone-uav-flying-in-the-air-reconnaissance-flight-over-the-territory-above.jpg?s=612x612&w=0&k=20&c=kD3p5jE4ewb5a8gtHJg56gpbv7juencoRVd1XIs-Jlk="
+  },
+  {
+    "name": "StratoEye HALE Ultra",
+    "droneStatus": "available",
+    "type": "hale",
+    "rangeKm": 1000,
+    "totalAvailable": 1,
+    "flightTimeMin": 1800,
+    "exampleUseCase": "High-altitude intelligence, surveillance, and weather monitoring.",
+    "payloadType": "camera",
+    "batteryLevel": 100,
+    "image": "https://media.istockphoto.com/id/1454592990/photo/advanced-combat-aerial-vehicle-drone-flying-over-clouds.jpg?s=612x612&w=0&k=20&c=CTjZvNTq_vobz4iu2wxBPNuoPOYIBxHeUIRZzFQ5Ngs="
+  }
+]

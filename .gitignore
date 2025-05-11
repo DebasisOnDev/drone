@@ -1,0 +1,29 @@
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.env
+*.env.local
+*.env.*.local
+!.env.example
+
+# Node modules
+node_modules/
+**/node_modules/ # To catch node_modules in subdirectories like frontend and backend
+
+# Frontend (Next.js specific)
+drone-client/.next/
+drone-client/out/
+drone-client/.swc/
+
+# Backend (Express/Node specific - adjust if you have different build folders)
+drone-api/dist/
+drone-api/coverage/
+drone-api/logs/
+drone-api/db-data/
+drone-api/pg_hba.conf/
+drone-api/redis-data/
+
+# IDE / Editor specific
+.vscode/
+.idea/
